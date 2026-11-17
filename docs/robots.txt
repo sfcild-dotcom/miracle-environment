@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# 사이트맵
+Sitemap: https://miracle-co.cloud/sitemap.xml
+
+# 네이버 봇
+User-agent: Yeti
+Allow: /
+
+# 다음 봇
+User-agent: Daum
+Allow: /
+
+# 구글 봇
+User-agent: Googlebot
+Allow: /
